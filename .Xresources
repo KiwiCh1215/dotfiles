@@ -16,11 +16,11 @@ XTerm*selectToClipboard: true
 
 
 !! My theme
-#define myBackground			#181b20
-#define myBackgroundTrans		#00181b20
-#define myForeground			#f49448
-#define mySelector			#f8ba87
-#define myUrgent			#f1740e
+#define myBackground			#0f282f
+#define myBackgroundTrans		#000f282f
+#define myForeground			#f4f7da
+#define mySelector			#b94d41
+#define myUrgent			#b4cdad
 
 *themeBackground:		  myBackground
 *themeBackgroundTrans:		  myBackgroundTrans
